@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.coaching-background {
+    margin: 10px;
+    padding: 10px;
+}
+
+.live-conatiner {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 10px;
+}
+
+.live-button {
+    background-color: #eb2626;
+    border-radius: 5px;
+    color: white;
+    border-width: 0;
+    padding-top: 5px;
+    width: 80px;
+    font-weight: 700;
+}
+
+.color {
+    color: white;
+    margin-right: 8px;
+    font-size: 10px;
+    padding-bottom: 10px;
+}
+
+.live-heading {
+    font-size: 35px;
+    margin-left: 13px;
+    padding-top: 5px;
+    font-weight: 900;
+}
+
+.arrow-button {
+    background-color: #83828f;
+    border-radius: 7px;
+    border-width: 0;
+    width: 50px;
+    padding: 5px;
+}
+
+.arrow-color {
+    font-size: 20px;
+    color: white;
+}
+
+.live-video-container {
+    width: 350px;
+}
+
+.live-video-container:hover {
+    border-radius: 10px;
+    background-color: white;
+    margin: 30px;
+    width: 370px;
+    cursor: pointer;
+}
+
+.live-video-image:hover {
+    width: 370px;
+}
+
+.live-video-image {
+    height: 35vh;
+    width: 350px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.background-timedate {
+    background-image: linear-gradient(to right, #31b537, #01755c);
+    background-size: cover;
+    height: 40px;
+    width: 100%;
+}
+
+.date-closure {
+    color: white;
+    margin-left: 10px;
+    font-size: 17px;
+    font-weight: 500;
+    font-family: "Roboto";
+}
+
+.coaching-heading {
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 20px;
+    font-weight: 600;
+}
+
+.youtube-icon {
+    color: #eb2626;
+    font-size: 13px;
+}
+
+.live-classes-count {
+    color: #7f8f80;
+    font-size: 13px;
+
+}
+
+.line {
+    height: 1px;
+    color: gray;
+    width: 90%;
+}
+
+.question-icon {
+    color: orange;
+    font-size: 13px;
+}
